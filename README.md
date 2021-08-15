@@ -4,8 +4,7 @@
 *Area_switch(DQN): Training high-level behavior switcher.
 ## Steps
 1. $ cd ~/catkin_ws/src
-2. $ git clone https://github.com/chenwueric1997/Creating-fusion-layer.git
-3. $ catkin_make
+2. $ git clone https://github.com/SeanWu1997/HRL-Robot-Beahavior_Switch.git
 ## Remark
 * fusion_msg
 : Define the format between sending and receiving information.
